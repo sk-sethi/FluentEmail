@@ -5,6 +5,8 @@
     <AssemblyTitle>Fluent Email</AssemblyTitle>
     <TargetFramework>netstandard2.0</TargetFramework>
     <AssetsDirectory>../../assets</AssetsDirectory>
+    <AssemblyVersion>3.1.0.0</AssemblyVersion>
+    <FileVersion>3.1.0.0</FileVersion>
   </PropertyGroup>
 
   <!--<Target Name="PostcompileScript" AfterTargets="Build" Condition=" '$(IsCrossTargetingBuild)' != 'true' ">
